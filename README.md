@@ -8,6 +8,16 @@ cd discord-message-mover
 npm install
 npm start (first configure settings below)
 ```
+If you get the following error:
+```
+{ [Error: ENOENT: no such file or directory, scandir './events/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './events/' }
+```
+Ignore it or create an events directory in the root of the source code.
+
 ## Configuration
 All bot settings are stored in the config.json file.
 
