@@ -1,6 +1,8 @@
 # discord-message-mover
 A bot that moves discord messages to another channel.
 
+![](https://media.giphy.com/media/7JvnUU43b3kDyYUyoZ/giphy.gif)
+
 ## Installation
 Requirements
 - NodeJS
