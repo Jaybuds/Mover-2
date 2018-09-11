@@ -2,6 +2,8 @@
 A bot that moves discord messages to another channel.
 
 ## Installation
+Requirements
+- NodeJS
 ```
 git clone https://github.com/mclarence/discord-message-mover
 cd discord-message-mover
