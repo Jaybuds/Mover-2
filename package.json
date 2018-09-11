@@ -1,0 +1,11 @@
+{
+  "name": "message_mover",
+  "version": "1.0.0",
+  "bin": "./bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "latest"
+  }
+}
